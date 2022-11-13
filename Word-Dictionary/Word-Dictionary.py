@@ -1,3 +1,5 @@
+#pip install PyDictionary
+
 from PyDictionary import PyDictionary
 
 dictionary = PyDictionary()

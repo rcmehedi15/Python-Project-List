@@ -1,3 +1,5 @@
+#pip installl speeedtest
+
 from turtle import speed
 import speedtest
 
